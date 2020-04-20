@@ -5,7 +5,7 @@ Getting and Tidying Data Course Project
 dplyr
 
 ###Description
-This document is a codebook that describes the variables and data used in this project, and the transormations that I did to the data.
+This document is a codebook that describes the variables and data used in this project, and the transformations done to the data.
 
 ###The Data
 UCI Human Activity Recognition Using Smartphones Data Set
@@ -39,6 +39,6 @@ First, the test and train sets were merged into a single large data set. Columns
 
 Next, columns containing mean or standard deviation measurements were extracted and variable names were adjusted.
 
-Lastly, a new tidy data set was produced, containing the average of each variable for each activity and subect.
+Lastly, a new tidy data set was produced, containing the average of each variable for each activity and subject.
 
 This data set is included in this repository as "tidydata.txt"
