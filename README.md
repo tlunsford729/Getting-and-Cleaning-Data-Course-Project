@@ -1,13 +1,13 @@
 # Getting and Cleaning Data Course Project
 Final project for Johns Hopkins Coursera course
 
-#Project Contents
+##Project Contents
 README.txt - Explanation of assignment and analysis conducted
 codebook.md - Guide to data used and transformations carried out
 tidydata.txt - data set containing means for each activity and each subject
 run_analysis.R - code run in order to produce tidydata.txt
 
-#Assignment Details
+##Assignment Details
 Instructions for this assignment can be found at:
 https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
 
@@ -29,7 +29,7 @@ The UCI data set contains the following contents:
 'train/Inertial Signals/body_acc_x_train.txt'
 'train/Inertial Signals/body_gyro_x_train.txt'
 
-#Analysis
+##Analysis
 tidydata.txt was produced by compiling the various test and train files into one data set, relabeling columns, extracting a subset of measurements and generating a new data set, 'tidydata.txt,' from the average of each variable for each activity and each subject.
 
-#I hope you enjoy grading this assignment more than I enjoyed doing it.
+##I hope you enjoy grading this assignment more than I enjoyed doing it.
